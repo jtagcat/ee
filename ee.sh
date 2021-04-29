@@ -1,0 +1,102 @@
+#!/bin/sh -e
+
+__domain()
+{
+    registered='-'
+    registrant='-'
+    country='-'
+    nserver='-'
+    whois="$( whois "$1" || true )"
+
+    if [ -n "$whois" ]
+    then
+        get_registered="$( echo "$whois" | sed -nr 's/^registered:\s+([0-9-]{10})\s.+/\1/p' )"
+
+        if [ -n "$get_registered" ]
+        then
+            registered="$get_registered"
+        fi
+
+        get_registrant="$( echo "$whois" | sed -nr 's/^org\sid:\s+([a-z0-9]+)/\1/pI' | sed -e 's/\(.*\)/\L\1/' )"
+
+        if [ -n "$get_registrant" ]
+        then
+            registrant="$get_registrant"
+        fi
+
+        get_country="$( echo "$whois" | sed -nr 's/^country:\s+([a-z]+)/\1/pI' | sed -e 's/\(.*\)/\L\1/' )"
+
+        if [ -n "$get_country" ]
+        then
+            country="$get_country"
+        fi
+    fi
+
+    get_nserver="$( dig +short soa "$1" | awk '{print $1}' | sed 's/\.$//' | sed -e 's/\(.*\)/\L\1/' )"
+
+    if [ -n "$get_nserver" ]
+    then
+        if get_psl="$( echo "$get_nserver" | psl -b --print-reg-domain )"
+        then
+            nserver="$get_psl"
+        else
+            nserver="$get_nserver"
+        fi
+    fi
+
+    echo "$1 $registered $registrant $country $nserver"
+}
+
+domains_in_zone="$( dig +noidnout ee axfr @zone.internet.ee \
+    | grep -Po '^(.+\..+)(?=\.\s+[0-9]+\s+IN\s+NS\s+)' \
+    | sort -u )"
+
+if [ "$( echo "$domains_in_zone" | grep -Evc '^$' )" -lt 130000 ]
+then
+    echo 'borked zone transfer?' >&2
+    exit 1
+fi
+
+add_domains="$( echo "$domains_in_zone" | comm -13 ee.domains - )"
+
+remove_domains="$( echo "$domains_in_zone" | comm -13 - ee.domains )"
+
+if [ -z "$add_domains" ] && [ -z "$remove_domains" ]
+then
+    exit 0
+fi
+
+if [ -n "$add_domains" ]
+then
+    echo "$add_domains" | while read -r l
+    do
+        echo "$l" >> ee.domains
+        __domain "$l" >> ee.domains.info
+    done
+
+    sort -o ee.domains ee.domains
+    sort -o ee.domains.info ee.domains.info
+fi
+
+if [ -n "$remove_domains" ]
+then
+    echo "$remove_domains" | while read -r l
+    do
+        sed -i "/^$l\$/d" ee.domains
+        sed -i "/^$l\s/d" ee.domains.info
+    done
+fi
+
+printf '%s added, %s removed\n\n' \
+    "$( echo "$add_domains" | grep -Evc '^$' )" \
+    "$( echo "$remove_domains" | grep -Evc '^$' )"
+
+if [ -n "$add_domains" ]
+then
+    printf '%s\n' "$( echo "$add_domains" | sed 's/^/+/' )"
+fi
+
+if [ -n "$remove_domains" ]
+then
+    printf '%s\n' "$( echo "$remove_domains" | sed 's/^/-/' )"
+fi
