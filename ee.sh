@@ -76,6 +76,8 @@ then
 
     sort -o ee.domains ee.domains
     sort -o ee.domains.info ee.domains.info
+
+    added_count="$( echo "$add_domains" | grep -Evc '^$' )"
 fi
 
 if [ -n "$remove_domains" ]
@@ -85,11 +87,29 @@ then
         sed -i "/^$l\$/d" ee.domains
         sed -i "/^$l\s/d" ee.domains.info
     done
+
+    removed_count="$( echo "$remove_domains" | grep -Evc '^$' )"
 fi
 
-printf '%s added, %s removed\n\n' \
-    "$( echo "$add_domains" | grep -Evc '^$' )" \
-    "$( echo "$remove_domains" | grep -Evc '^$' )"
+if [ -n "$added_count" ]
+then
+    printf '%s added' "$added_count"
+fi
+
+if [ -n "$removed_count" ]
+then
+    if [ -n "$added_count" ]
+    then
+        printf ', '
+    fi
+
+    printf '%s removed' "$removed_count"
+fi
+
+if [ -n "$added_count" ] || [ -n "$removed_count" ]
+then
+    printf '\n\n'
+fi
 
 if [ -n "$add_domains" ]
 then
