@@ -14,5 +14,5 @@ jobs:
       - run: sudo apt-get install psl publicsuffix whois
       - run: git config user.name github-actions
       - run: git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-      - run: ./ee.sh | tee /tmp/commit-message
+      - run: ./update.sh | tee /tmp/commit-message
       - run: if git commit -a -F /tmp/commit-message; then git push; fi

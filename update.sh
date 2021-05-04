@@ -57,9 +57,9 @@ then
     exit 1
 fi
 
-add_domains="$( echo "$domains_in_zone" | comm -13 ee.domains - )"
+add_domains="$( echo "$domains_in_zone" | comm -13 list - )"
 
-remove_domains="$( echo "$domains_in_zone" | comm -13 - ee.domains )"
+remove_domains="$( echo "$domains_in_zone" | comm -13 - list )"
 
 if [ -z "$add_domains" ] && [ -z "$remove_domains" ]
 then
@@ -70,12 +70,12 @@ if [ -n "$add_domains" ]
 then
     echo "$add_domains" | while read -r l
     do
-        echo "$l" >> ee.domains
-        __domain "$l" >> ee.domains.info
+        echo "$l" >> list
+        __domain "$l" >> info
     done
 
-    sort -o ee.domains ee.domains
-    sort -o ee.domains.info ee.domains.info
+    sort -o list list
+    sort -o info info
 
     added_count="$( echo "$add_domains" | grep -Evc '^$' )"
 fi
@@ -84,8 +84,8 @@ if [ -n "$remove_domains" ]
 then
     echo "$remove_domains" | while read -r l
     do
-        sed -i "/^$l\$/d" ee.domains
-        sed -i "/^$l\s/d" ee.domains.info
+        sed -i "/^$l\$/d" list
+        sed -i "/^$l\s/d" info
     done
 
     removed_count="$( echo "$remove_domains" | grep -Evc '^$' )"

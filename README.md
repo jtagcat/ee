@@ -1,3 +1,0 @@
-# eesti domeenid
-
-:-)
