@@ -120,3 +120,13 @@ if [ -n "$remove_domains" ]
 then
     printf '%s\n' "$( echo "$remove_domains" | sed 's/^/-/' )"
 fi
+
+cat > README.md << EOF
+# list of active .ee domains
+
+source: [internet.ee](https://internet.ee/domains/ee-zone-file)
+
+last update: $( date -R )
+
+active domains: $( grep -Ec '.*' list )
+EOF
