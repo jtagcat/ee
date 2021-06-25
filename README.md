@@ -2,6 +2,6 @@
 
 source: [internet.ee](https://internet.ee/domains/ee-zone-file)
 
-last update: Fri, 25 Jun 2021 09:48:40 +0000
+last update: Fri, 25 Jun 2021 11:46:52 +0000
 
-active domains: 140738
+active domains: 140742
