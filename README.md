@@ -1,7 +1,1 @@
-# list of active .ee domains
-
-source: [internet.ee](https://internet.ee/domains/ee-zone-file)
-
-last update: Sat, 26 Jun 2021 08:46:58 +0000
-
-active domains: 140776
+**140776** active domains as of **2021-06-26 10:06 UTC**.

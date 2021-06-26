@@ -122,11 +122,5 @@ then
 fi
 
 cat > README.md << EOF
-# list of active .ee domains
-
-source: [internet.ee](https://internet.ee/domains/ee-zone-file)
-
-last update: $( date -R )
-
-active domains: $( grep -Ec '.*' list )
+**$( grep -Ec '.*' list )** active domains as of **$( date -u '+%F %R' ) UTC**.
 EOF
