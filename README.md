@@ -1,1 +1,1 @@
-**147113** active domains as of **2022-01-23 22:10 UTC**.
+**147052** active domains as of **2022-01-23 23:10 UTC**.
