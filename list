@@ -18181,6 +18181,7 @@ bussberg.ee
 busservis.ee
 bussi-rent.ee
 bussiaeg.ee
+bussiajad.ee
 bussibaas.ee
 bussid.ee
 bussid24.ee
@@ -46757,6 +46758,7 @@ helilained.ee
 helilaulustuudio.ee
 helilillepood.ee
 helilooja.ee
+heliloojad.ee
 helilugu.ee
 helimaagia.ee
 helimeditatsioon.ee
@@ -51469,6 +51471,7 @@ inducont.ee
 inductionsl.ee
 inductive.ee
 inductor.ee
+induktsioonpliit.ee
 indur.ee
 indurainehitus.ee
 indus.ee
@@ -67945,6 +67948,7 @@ laekoda.ee
 laekvere.ee
 laekverepm.ee
 laekverepold.ee
+laelamp.ee
 laemeister.ee
 laen-ettevottele.ee
 laen-firmale.ee
@@ -68059,6 +68063,7 @@ laevajuht.ee
 laevajuht24.ee
 laevakaubad.ee
 laevakompanii.ee
+laevalgusti.ee
 laevaliin.ee
 laevaliinid.ee
 laevaload.ee
@@ -84379,6 +84384,7 @@ mullitelk.ee
 mullivaat.ee
 mullivann.ee
 mullivannid.ee
+mulliveemasin.ee
 mulljaleil.ee
 mullotransport.ee
 mullys.ee
@@ -89031,6 +89037,7 @@ nou.ee
 nouandeteenistus.ee
 nouandla.ee
 nouanne.ee
+noudepesumasin.ee
 nouderent.ee
 nouhau.ee
 noukserantso.ee
@@ -98823,6 +98830,7 @@ porandakaitse.ee
 porandakeskus.ee
 porandakute.ee
 porandalahendused.ee
+porandalamp.ee
 porandalihvimine.ee
 porandaliistud.ee
 porandamehed.ee
@@ -101331,6 +101339,7 @@ puhtus.ee
 puhtusearmee.ee
 puhunulli.ee
 puhupromilli.ee
+puhur.ee
 puhurveod.ee
 puhurvill.ee
 puhv.ee
@@ -117603,6 +117612,7 @@ soojamehed.ee
 soojapartner.ee
 soojapood.ee
 soojapuhur.ee
+soojapuhurid.ee
 soojapump.ee
 soojapunkt.ee
 soojasalv.ee
@@ -134236,6 +134246,7 @@ vahvameeskond.ee
 vahvasein.ee
 vahvel.ee
 vahvi.ee
+vahvlid.ee
 vahvlihaldjad.ee
 vahvlik.ee
 vaiad.ee
@@ -142872,6 +142883,7 @@ xn--distantspe-9bb.ee
 xn--dkmetsatd-77aa.ee
 xn--dno-hoa.ee
 xn--drger-hra.ee
+xn--dusikbiin-z2a.ee
 xn--e-keelenu-x7a.ee
 xn--e-korterihistu-osb.ee
 xn--e-ktus-5ya.ee
@@ -143144,6 +143156,8 @@ xn--heatmme-40a.ee
 xn--hel-joa.ee
 xn--helait-5ya.ee
 xn--helgijasra-x5a.ee
+xn--helilja-e1aa.ee
+xn--heliljad-r4aa.ee
 xn--helle-snnipev-lfb96a.ee
 xn--helmesknal-geba.ee
 xn--hemofiiliapev-lfb.ee
@@ -143292,6 +143306,9 @@ xn--hva-hoa.ee
 xn--hvasti-3ya.ee
 xn--hwa-hoa.ee
 xn--i-ettevte-w7a.ee
+xn--iakru-frad.ee
+xn--iamaja-9ta.ee
+xn--iamajad-4wa.ee
 xn--idapllu-40a.ee
 xn--idatstuk-h4a.ee
 xn--idealkk-f1aa.ee
@@ -143408,6 +143425,7 @@ xn--joogajud-j4a.ee
 xn--joogimng-5za.ee
 xn--joogimngud-v5a.ee
 xn--jooks-iuaa.ee
+xn--jped-5qa.ee
 xn--jprits-buaa.ee
 xn--jr-fkaa.ee
 xn--jr-viaaaa.ee
@@ -143575,6 +143593,8 @@ xn--kassassteemid-1ob.ee
 xn--kastmisssteem-3ob.ee
 xn--kasutatud-slearvutid-zec.ee
 xn--kasutatudslearvutid-fbc.ee
+xn--kasvuhne-s4aa.ee
+xn--kasvuhned-57aa.ee
 xn--katrinvli-12a.ee
 xn--katusejrelevalve-1nb.ee
 xn--katuseplekitd-tmba.ee
@@ -143600,6 +143620,8 @@ xn--kberturvalisus-gsb.ee
 xn--kbervejuhatus-ffb96a.ee
 xn--kbikla-bua9q.ee
 xn--kbruotsa-0za.ee
+xn--kdumasinad-2bb.ee
+xn--kdumasinad-ecb.ee
 xn--kebabtar-l4a.ee
 xn--keelenu-60a.ee
 xn--keeleppereisid-kpb.ee
@@ -143824,6 +143846,7 @@ xn--kodukk-0xaa.ee
 xn--koduleheklg-1hb.ee
 xn--kodumasinateravedu-wtb.ee
 xn--kodumbel-r4aa.ee
+xn--kodumsinad-u5a.ee
 xn--kodupetaja-5bb.ee
 xn--kodusnnitustartu-nzb.ee
 xn--kodutd-0xaa.ee
@@ -143859,6 +143882,7 @@ xn--kolmprsakest-vib.ee
 xn--komaja-vxa.ee
 xn--komon-iua.ee
 xn--komotion-m4a.ee
+xn--kompster-q4a.ee
 xn--komrgis-7wa2n.ee
 xn--komuna-vxa.ee
 xn--komunad-80a.ee
@@ -143900,6 +143924,7 @@ xn--koveinid-m4a.ee
 xn--koviimistlus-3ib.ee
 xn--kpaott-buaa.ee
 xn--kpp-qla.ee
+xn--kpp-qla2ga.ee
 xn--kppjaksi-0zaf.ee
 xn--kprok-kva.ee
 xn--kps-hoa.ee
@@ -144110,11 +144135,13 @@ xn--laadapevad-v5a.ee
 xn--laagrigmnaasium-5vb.ee
 xn--laborimbel-kcba.ee
 xn--ladasbrad-u7a.ee
+xn--laelmp-eua.ee
 xn--laenmaksehirega-9kb.ee
 xn--laenupring-v5a.ee
 xn--laenuvrdlus-kfb.ee
 xn--laenuvrdlus24-8lb.ee
 xn--laenuvtmine-kfb.ee
+xn--laevlgustid-o8a.ee
 xn--lahinguvli-x5a.ee
 xn--lakirikeskus-jcb.ee
 xn--lammutusessad-jfb.ee
@@ -144453,6 +144480,8 @@ xn--mdistus-10aa.ee
 xn--mdistused-q7aa.ee
 xn--mdistusprojekt-gpba.ee
 xn--mdleen-bua.ee
+xn--mdrats-bua.ee
+xn--mdratsid-0za.ee
 xn--mdu-ona.ee
 xn--mdud-0raa.ee
 xn--me28-loa.ee
@@ -144842,6 +144871,7 @@ xn--nrkvoolussteemid-4vb8k.ee
 xn--nu-cka.ee
 xn--nuck-8qa.ee
 xn--nud-ona.ee
+xn--nudepesumasin-3lb.ee
 xn--nue-ona.ee
 xn--nukogu-pxa.ee
 xn--nustaja-10a.ee
@@ -145147,6 +145177,7 @@ xn--prandahooldus-3lb.ee
 xn--prandakatted-rib.ee
 xn--prandakeskus-rib.ee
 xn--prandakte-q7a7f.ee
+xn--prandalamp-2bb.ee
 xn--prandalihvimine-ssb.ee
 xn--prandapaigaldus-ssb.ee
 xn--prandaplaadid-3lb.ee
@@ -145192,6 +145223,7 @@ xn--pris-loa.ee
 xn--prise-juaa.ee
 xn--prjad-gra.ee
 xn--prjavabrik-q5a.ee
+xn--prka-loa.ee
 xn--prl-qla.ee
 xn--prlid-gra.ee
 xn--prlilugu-0za.ee
@@ -145265,6 +145297,7 @@ xn--psteamet-0zaa.ee
 xn--psteliit-0zaa.ee
 xn--psuke-graa.ee
 xn--psukesemrk-q5aah.ee
+xn--pteek-fra.ee
 xn--ptk-hoa.ee
 xn--pts-qla.ee
 xn--puhasjnes-02a.ee
@@ -145385,6 +145418,8 @@ xn--rendittaja-jcba.ee
 xn--rendivikebuss-gfb.ee
 xn--reservpsterhm-hfba20b.ee
 xn--restoranvlk-t8a.ee
+xn--restran-d1a.ee
+xn--restranid-37a.ee
 xn--revalmbel-57aa.ee
 xn--revrv-ira.ee
 xn--rg-wka.ee
@@ -145801,6 +145836,7 @@ xn--strssel-c1a.ee
 xn--stuudio-80a.ee
 xn--subcontracringo-ewb.ee
 xn--sukkpksid-u9a.ee
+xn--sunamaja-0za.ee
 xn--suuhgieen-t9a.ee
 xn--suureje-60a.ee
 xn--suuremisaholidayapartment-drc.ee
@@ -146229,6 +146265,7 @@ xn--tulitykortti-9ib.ee
 xn--tupsikumngumaa-dib.ee
 xn--turujrve-4za.ee
 xn--turvalinet-ncba.ee
+xn--turvatl-f1aa.ee
 xn--tussisjad-57aa.ee
 xn--tuubisit-j4a.ee
 xn--tuuletke-j4a.ee
@@ -146432,6 +146469,7 @@ xn--vlg-ona.ee
 xn--vlgadekustutamine-hzb.ee
 xn--vlglane-10a.ee
 xn--vlglased-e4a.ee
+xn--vlgustid-0za.ee
 xn--vli-qla.ee
 xn--vlikgid-5wa9na.ee
 xn--vlikimla-0zad.ee
