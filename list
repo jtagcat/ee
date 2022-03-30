@@ -33811,6 +33811,8 @@ eramaake.ee
 eramaja.ee
 eramajad.ee
 eramajaehitus.ee
+eramajarekonstrueerimine.ee
+eramajarenoveerimine.ee
 eramajutus.ee
 eramets.ee
 erametsa.ee
@@ -33832,6 +33834,7 @@ eramuelekter.ee
 eramuhaldus.ee
 eramuhooldus.ee
 eramuprojekt.ee
+eramuterenoveerimine.ee
 eramuventprojekt.ee
 erand.ee
 eraomand.ee
@@ -35400,6 +35403,7 @@ eterniit.ee
 eterniit24.ee
 eterniitkatus.ee
 eterniitkatus24.ee
+eterniitkatused.ee
 eternit.ee
 eternitbaltic.ee
 eternl.ee
@@ -37225,6 +37229,8 @@ fasprof.ee
 fassaad.ee
 fassaad24.ee
 fassaadid.ee
+fassaadidekrohvimine.ee
+fassaadidesoojustamine.ee
 fassaadiehitus.ee
 fassaadiekspert.ee
 fassaadifirma.ee
@@ -56418,6 +56424,7 @@ juuraportaal.ee
 juurateave.ee
 juuratv.ee
 juuraveeb.ee
+juurdeehitus.ee
 juurdeveo8.ee
 juured.ee
 juureravi.ee
@@ -59299,8 +59306,10 @@ katuseredel24.ee
 katuseredelid.ee
 katuseremont.ee
 katuseremont24.ee
+katuserenoveerimine.ee
 katuseseire.ee
 katuseservice.ee
+katusesoojustamine.ee
 katusetark.ee
 katusetarvikud.ee
 katusetehnik.ee
@@ -59317,6 +59326,7 @@ katusjafassaad.ee
 katuskorda.ee
 katuskorda24.ee
 katuspluss.ee
+katusteehitus.ee
 katustehooldus.ee
 katustepesu.ee
 katusteremont.ee
@@ -60005,6 +60015,7 @@ keldrikoda.ee
 keldrikorrus.ee
 keldrimae.ee
 keldrimaemarjad.ee
+keldriteehitus.ee
 kelepona.ee
 keleron.ee
 kelgud.ee
@@ -61812,6 +61823,7 @@ kirjanikemuuseumid.ee
 kirjanov.ee
 kirjanurk.ee
 kirjapaino.ee
+kirjapulk.ee
 kirjaread.ee
 kirjasta.ee
 kirjastaja.ee
@@ -62028,6 +62040,7 @@ kividpaika.ee
 kiviehitised.ee
 kiviehitus.ee
 kiviexpert.ee
+kivifassaadid.ee
 kivigrupp.ee
 kiviguru.ee
 kivihaldjas.ee
@@ -62181,6 +62194,7 @@ kivivesi.ee
 kiviviiking.ee
 kivivill.ee
 kivivineer.ee
+kivivooderfassaadid.ee
 kivix.ee
 kivo.ee
 kivra.ee
@@ -64330,6 +64344,7 @@ konstrado.ee
 konstruktor.ee
 konstruktorid.ee
 konstruktsioonid.ee
+konstruktsioonideremont.ee
 konsulent.ee
 konsult.ee
 konsultaat.ee
@@ -65099,6 +65114,7 @@ korteriremont.pri.ee
 korteriremonttallinn.ee
 korterirent.ee
 korterite-remont.ee
+korteriteehitus.ee
 korteritehoiulaenu.ee
 korteritekiirost.ee
 korteritekokkuost.ee
@@ -65114,6 +65130,8 @@ korteriyhistu.ee
 korteriyhistu24.ee
 korteriyhistud.ee
 kortermaja.ee
+kortermajaderekonstrueerimine.ee
+kortermajaderenoveerimine.ee
 kortermajaks.ee
 korternet.ee
 kortex.ee
@@ -66059,6 +66077,7 @@ krohvfassaad.ee
 krohvfassaadid.ee
 krohvid.ee
 krohvikoda.ee
+krohvimine.ee
 krohvipritsirent.ee
 krohvjaviimistlus.ee
 krohvstuudio.ee
@@ -74950,6 +74969,7 @@ maailmaparim.ee
 maailmaparimkook.ee
 maailmapuudutus.ee
 maailmarandurid.ee
+maailmasoolad.ee
 maailmavaade.ee
 maailmavaated.ee
 maailmavalgus.ee
@@ -82302,6 +82322,7 @@ missionrituals.ee
 missioon.ee
 missioonifond.ee
 missl.ee
+misslemon.ee
 misslora.ee
 missmary.ee
 missmaryofsweden.ee
@@ -106351,6 +106372,7 @@ reko.ee
 rekoinvesto.ee
 rekola.ee
 rekona.ee
+rekonstrueerime.ee
 rekonstrueerimine.ee
 rekonte.ee
 rekontra.ee
@@ -106842,6 +106864,7 @@ renovatum.ee
 renovedur.ee
 renovee.ee
 renoveeri.ee
+renoveerime.ee
 renoveerimine.ee
 renoveerimiskeskus.ee
 renoveerimisprojekt.ee
@@ -116422,6 +116445,7 @@ skr.ee
 skraamat.ee
 skrada.ee
 skraesport.ee
+skratt.ee
 skratti.ee
 skrepka.ee
 skriibus.ee
@@ -140722,6 +140746,7 @@ vundamendid24.ee
 vundamendiehitus.ee
 vundamendikeskus.ee
 vundamendimeister.ee
+vundamendiremont.ee
 vundament.ee
 vundament24.ee
 vundamentehitus.ee
@@ -144279,6 +144304,8 @@ xn--kekirurg-0za.ee
 xn--kekirurgia-q5a.ee
 xn--kekliinik-v2a.ee
 xn--kekspert-65a.ee
+xn--keldritembeerhitus-t6b.ee
+xn--keldrituletkketd-fwbwa.ee
 xn--kembel-yxaa.ee
 xn--kepaelad-0za.ee
 xn--kepiknd-50a.ee
@@ -145799,6 +145826,8 @@ xn--pm-cka.ee
 xn--pnevus-pxa.ee
 xn--pni-krts-klalistemaja-ydcsa4n.ee
 xn--pning-juaa.ee
+xn--pninguehitus-4iba.ee
+xn--pningukorruseehitus-q6ba.ee
 xn--pningupesa-ecba.ee
 xn--pnn-ona.ee
 xn--pnnila-pxa.ee
