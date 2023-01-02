@@ -29433,6 +29433,7 @@ eaus.ee
 eauthors.ee
 eauto.ee
 eautokool.ee
+eautolaadija.ee
 eautosalong.ee
 eav.ee
 eava.ee
@@ -32443,6 +32444,8 @@ elektrikilbid.ee
 elektrikilp24.ee
 elektrikontroll.ee
 elektrikparnus.ee
+elektrikpeetris.ee
+elektriktabasalus.ee
 elektriktallinn.ee
 elektriktallinnas.ee
 elektriktartus.ee
@@ -32450,6 +32453,7 @@ elektrikud.ee
 elektrikulu.ee
 elektrikunnid.ee
 elektrikuteenused.ee
+elektrikviimsis.ee
 elektrikviljandis.ee
 elektrilaadija.ee
 elektrilaadijad.ee
@@ -47185,6 +47189,7 @@ harjulaagrijk.ee
 harjuloogiline.ee
 harjumaa.ee
 harjumaa24.ee
+harjumaaelekter.ee
 harjumaalasterikkad.ee
 harjumaaler.ee
 harjumaamuuseum.ee
@@ -58164,6 +58169,7 @@ kaablid.ee
 kaablihai.ee
 kaablikokkuost.ee
 kaablimees.ee
+kaablipaigaldus.ee
 kaabliproff.ee
 kaablispets.ee
 kaabo.ee
@@ -61562,6 +61568,8 @@ keilabk.ee
 keilabrikett.ee
 keilacrosspower.ee
 keilaehitus.ee
+keilaelekter.ee
+keilaelektrik.ee
 keilafoto.ee
 keilahaigla.ee
 keilahaldus.ee
@@ -62546,6 +62554,7 @@ kiiliarenema.ee
 kiiliaripark.ee
 kiiliautopesula.ee
 kiilibetoon.ee
+kiilielekter.ee
 kiilikodu.ee
 kiilikodud.ee
 kiilikodukvartal.ee
@@ -73659,6 +73668,7 @@ liitmikud.ee
 liitreaalsus.ee
 liitu.ee
 liitumeiega.ee
+liitumiskilp.ee
 liitumispunktideehitus.ee
 liitumispunktiehitus.ee
 liiv-virumaal.ee
@@ -98543,6 +98553,7 @@ peetri82.ee
 peetriaripark.ee
 peetriautoabi.ee
 peetricoop.ee
+peetrielekter.ee
 peetriilustuudio.ee
 peetrijooks.ee
 peetrikeskus.ee
@@ -126309,6 +126320,7 @@ tabanipuhketalu.ee
 tabasalu.ee
 tabasaluarstid.ee
 tabasaluarvuti.ee
+tabasaluelekter.ee
 tabasaluilusalong.ee
 tabasalujk.ee
 tabasalukeskus.ee
@@ -127947,6 +127959,7 @@ tarkkodu.ee
 tarkkoer.ee
 tarkkontor.ee
 tarkla.ee
+tarklaadija.ee
 tarkladu.ee
 tarklaen.ee
 tarklahendaja.ee
@@ -142255,6 +142268,7 @@ viimsidata.ee
 viimsiehitus.ee
 viimsiejv.ee
 viimsielekter.ee
+viimsielektrik.ee
 viimsifoto.ee
 viimsifutsal.ee
 viimsihaigla.ee
@@ -147834,6 +147848,8 @@ xn--elektrit-u4aa.ee
 xn--elektritd-77aa.ee
 xn--elektritd24-yfba.ee
 xn--elektritd24h-cjba.ee
+xn--elektritdprnus-fib9za.ee
+xn--elektritdtallinnas-k3ba.ee
 xn--elektritdtartus-gtba.ee
 xn--elektritukeratas-cwb.ee
 xn--elektritukerattad-ozb.ee
@@ -150652,6 +150668,7 @@ xn--sgitool-90aa.ee
 xn--shktarvikkeet-bfb6y.ee
 xn--shku-loa.ee
 xn--sidame-pxa.ee
+xn--sidetd-0xaa.ee
 xn--siduautod-q7a.ee
 xn--sidueksam-q7a.ee
 xn--sidukid-10a.ee
