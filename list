@@ -11834,6 +11834,7 @@ autodetailingtallinn.ee
 autodetaustakontroll.ee
 autodetektiiv.ee
 autodetoomine.ee
+autodetreilerveod.ee
 autodevaruosad.ee
 autodiagnost.ee
 autodiagnostik.ee
@@ -12476,6 +12477,7 @@ autotrans.ee
 autotransport.ee
 autotreiler.ee
 autotreilertartu.ee
+autotreilerveod.ee
 autotuba.ee
 autotuled.ee
 autoturbo.ee
@@ -30848,6 +30850,7 @@ eestisepad.ee
 eestiseptik.ee
 eestisiga.ee
 eestisinfonietta.ee
+eestisisenetransport.ee
 eestiskasvatatud.ee
 eestisl.ee
 eestislotid.ee
@@ -42673,6 +42676,7 @@ gamedev.ee
 gamedevestonia.ee
 gamedog.ee
 gamefriik.ee
+gamego.ee
 gameground.ee
 gamehost.ee
 gameintegrity.ee
@@ -61346,6 +61350,7 @@ kavitec.ee
 kavlon.ee
 kavor.ee
 kawa.ee
+kawaiipanda.ee
 kawasaki.com.ee
 kawasaki.ee
 kawasakirobotics.ee
@@ -64151,6 +64156,7 @@ kksa.ee
 kkt-keskus.ee
 kkt-kolbe.ee
 kkt.ee
+kkt88.ee
 kktgrp.ee
 kktoil.ee
 kkv.ee
@@ -65123,6 +65129,7 @@ kodumaalaenud.ee
 kodumaatika.ee
 kodumail.ee
 kodumaine.ee
+kodumaised.ee
 kodumaja.ee
 kodumajakinnisvara.ee
 kodumajutus.ee
@@ -69324,6 +69331,7 @@ kuuhandmade.ee
 kuujuur.ee
 kuukaar.ee
 kuukaart.ee
+kuukarma.ee
 kuukass.ee
 kuukell.ee
 kuuker.ee
@@ -75980,6 +75988,7 @@ loren.ee
 lorents.ee
 lorenz.ee
 lorenzopharma.ee
+lorete.ee
 lorexgrupp.ee
 loriata.ee
 lorien.ee
@@ -82379,6 +82388,7 @@ merevaik.ee
 merevara.ee
 merevarustus.ee
 mereveere.ee
+mereveod.ee
 merevilla.ee
 merff.ee
 merffrental.ee
@@ -91146,6 +91156,7 @@ nobullproject.ee
 noc.ee
 noca.ee
 nocap.ee
+nocargo.ee
 nocc.ee
 nocco.ee
 nock.ee
@@ -99399,6 +99410,7 @@ perikyla.ee
 perilatallid.ee
 perimeeter.ee
 perimeetervalve.ee
+perimeetrivalve.ee
 perimeterprotection.ee
 perimex.ee
 perinat.ee
@@ -101774,6 +101786,7 @@ podrez.ee
 podruzka.ee
 podstuudio.ee
 podtail.ee
+podu.ee
 podval.ee
 podwahl.ee
 podzalog.ee
@@ -107154,7 +107167,10 @@ rahvusmeeskoor.ee
 rahvusmustrid.ee
 rahvusooper.ee
 rahvusraamatukogu.ee
+rahvusvahelinekaubavedu.ee
 rahvusvahelinemaja.ee
+rahvusvahelinetransport.ee
+rahvusvahelisedveod.ee
 rahwaresto.ee
 rai.ee
 raialinvest.ee
@@ -118338,6 +118354,7 @@ sid.ee
 siddur.ee
 side-power.ee
 side.ee
+sidekanalisatsiooniehitus.ee
 sidemaja.ee
 sidemark.ee
 sidepataljon.ee
@@ -139692,6 +139709,7 @@ valgustumine.ee
 valgustunnel.ee
 valgustus.ee
 valgustusdisain.ee
+valgustusepaigaldus.ee
 valgustuslahendused.ee
 valgustusraie.ee
 valgustusviis.ee
@@ -141520,6 +141538,7 @@ ventilatsiooni-puhastus.ee
 ventilatsiooni.ee
 ventilatsiooniabi.ee
 ventilatsioonid.ee
+ventilatsiooniehitus.ee
 ventilatsioonifilter.ee
 ventilatsioonihooldus.ee
 ventilatsioonilahendus.ee
@@ -142516,6 +142535,7 @@ viiksur.ee
 viikvald.ee
 viilhall.ee
 viilhallid.ee
+viilkatus.ee
 viilmeister.ee
 viilol.ee
 viilu.ee
@@ -147986,6 +148006,8 @@ xn--ametst-6ya.ee
 xn--an4ksit-8wa9na.ee
 xn--analtika-95aa.ee
 xn--andmeanaltika-4oba.ee
+xn--andmesidevrguehitus-f6b.ee
+xn--andmesidevrkudeehitus-3dc.ee
 xn--andresjgi-w7a.ee
 xn--angerjrv-5za.ee
 xn--annetaknet-8bb.ee
@@ -148377,6 +148399,7 @@ xn--hcker-gra.ee
 xn--hdaabi-bua.ee
 xn--hdakla-bua9q.ee
 xn--hdemeestevesi-bfba.ee
+xn--hdraulika-q9a.ee
 xn--hdraulika24-thb.ee
 xn--hdraulikapood-wob.ee
 xn--hdro24-3ya.ee
@@ -151015,6 +151038,7 @@ xn--shktarvikkeet-bfb6y.ee
 xn--shku-loa.ee
 xn--sidame-pxa.ee
 xn--sidetd-0xaa.ee
+xn--sidevrguehitus-kpb.ee
 xn--siduautod-q7a.ee
 xn--sidueksam-q7a.ee
 xn--siduk-dua.ee
@@ -151287,6 +151311,7 @@ xn--tehnikatht-x5a.ee
 xn--tehnolevaatus-0ob.ee
 xn--tehnolevaatuskeskus-99b.ee
 xn--tehnossteemid-1ob.ee
+xn--tehnovrkudeehitus-mzb.ee
 xn--teinehl-bxaa.ee
 xn--teisipev-5za.ee
 xn--tekeskus-e4a.ee
@@ -151421,6 +151446,9 @@ xn--tnavapuhastus-bfb.ee
 xn--tnavatantsijad-5hb.ee
 xn--tnavatoidufestival-ltb.ee
 xn--tnavatoit-v2a.ee
+xn--tnavavalgustuseehitus-51b.ee
+xn--tnavavalgustusepaigaldus-qbc.ee
+xn--tnavavalgustuseprojekteerimine-vsc.ee
 xn--tnis-0qa.ee
 xn--tniskrosmann-rib.ee
 xn--tniskrostmann-3lb.ee
@@ -151713,6 +151741,7 @@ xn--veinisber-v7a.ee
 xn--vejook-bua.ee
 xn--velaulud-0za.ee
 xn--venaised-0za.ee
+xn--ventilatsioonissteemid-6lc.ee
 xn--vererhk-50a.ee
 xn--vesilikus-u7a.com.ee
 xn--vesilikus-u7a.ee
