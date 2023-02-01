@@ -63611,6 +63611,8 @@ kinnistud.ee
 kinnistud24.ee
 kinnistuhaldus.ee
 kinnistuhaldustartus.ee
+kinnistuhind.ee
+kinnistuhindamine.ee
 kinnistulaen.ee
 kinnistumaakler.ee
 kinnistuoksjon.ee
@@ -65367,6 +65369,7 @@ kodukula.ee
 kodukulavalgjarve.ee
 kodukuld.ee
 kodukursus.ee
+kodukustutus.ee
 kodukute.ee
 kodukyla.ee
 kodula.ee
@@ -83589,6 +83592,7 @@ metsakodu.ee
 metsakoer.ee
 metsakohin.ee
 metsakohvik.ee
+metsakokkuost.ee
 metsakonsult.ee
 metsakonsultatsioon.ee
 metsakontor.ee
@@ -83615,6 +83619,7 @@ metsalood.ee
 metsalu.ee
 metsaluige.ee
 metsaluik.ee
+metsamaa-hind.ee
 metsamaa-ost.ee
 metsamaa.ee
 metsamaa24.ee
@@ -101720,6 +101725,7 @@ plankprojekt.ee
 plankstudio.ee
 planlogi.ee
 planmeister.ee
+planmerk.ee
 planner.ee
 plannet.ee
 plannja.ee
@@ -101876,6 +101882,7 @@ playmobil.ee
 playmore.ee
 playplus.ee
 playpokeronline.ee
+playqna.ee
 playroger.ee
 playroom.ee
 playsafe.ee
@@ -102565,6 +102572,7 @@ pollockstuudio.ee
 polls.ee
 pollud.ee
 polluinvesteeringud.ee
+pollukinnistu.ee
 pollukool.ee
 polluks.ee
 pollulaen.ee
@@ -107678,6 +107686,7 @@ raieluba.ee
 raiemuuk.ee
 raieoigus.ee
 raieoiguse-ost.ee
+raieoigusemuuk.ee
 raieoiguseost.ee
 raieost.ee
 raiepilet.ee
@@ -136836,6 +136845,7 @@ tulevikuharidus.ee
 tulevikuhariduse.ee
 tulevikujuhid.ee
 tulevikukool.ee
+tulevikukoolitaja.ee
 tulevikulabor.ee
 tulevikulaps.ee
 tulevikulasteaed.ee
@@ -149675,6 +149685,7 @@ xn--kimamis-10ae.ee
 xn--kimlarent-v2a.ee
 xn--kindlatesktes-kfb.ee
 xn--kindlateskteseesti-utb.ee
+xn--kinnistumk-ieba.ee
 xn--kinnistupring-jfb.ee
 xn--kinnisvarabroo-qsb.ee
 xn--kinnisvaraigus-ppb.ee
@@ -150511,7 +150522,9 @@ xn--metsahinnavrdlus-fwb.ee
 xn--metsahistu-eeb.ee
 xn--metsahistud-xhb.ee
 xn--metsahl-bxaa.ee
+xn--metsakinnistumk-dwba.ee
 xn--metsamaa-pllumaa-ost-mk-skc1qa.ee
+xn--metsamaamk-ieba.ee
 xn--metsameestehmn-rsb.ee
 xn--metsamisnik-kfb.ee
 xn--metsamk-s2aa.ee
@@ -151107,6 +151120,7 @@ xn--pllud-dua.ee
 xn--pllufond-e4a.ee
 xn--plluhaldus-2bb.ee
 xn--plluinfo-e4a.ee
+xn--pllukinnistu-rib.ee
 xn--pllukool-e4a.ee
 xn--pllule-pxa.ee
 xn--pllultkoju-2bb.ee
