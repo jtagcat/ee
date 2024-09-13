@@ -12250,6 +12250,8 @@ ametikoolitusekeskus.ee
 ametikoolituskeskus.ee
 ametiportree.ee
 ametiriided.ee
+ametiuhing.ee
+ametiyhing.ee
 ametkoda.ee
 ametlik.ee
 ametlikudteadaanded.ee
@@ -28370,6 +28372,7 @@ codemaster.ee
 codematics.ee
 codemind.ee
 codemowers.ee
+codenest.ee
 codenot.ee
 codenow.ee
 codento.ee
@@ -51340,6 +51343,7 @@ giftest.ee
 giftfood.ee
 gifticum.ee
 giftio.ee
+giftipood.ee
 giftit.ee
 giftkink.ee
 giftline.ee
@@ -54379,6 +54383,7 @@ haljastuspood.ee
 haljastusproff.ee
 haljastusprojektid.ee
 haljastusservice.ee
+haljastusteenus.ee
 haljastusteenused.ee
 haljastustood.ee
 haljava.ee
@@ -66692,6 +66697,7 @@ juvente.ee
 juventus.ee
 juviimistlus.ee
 juvirgrupp.ee
+juvo.ee
 juvytex.ee
 juw.ee
 juwara.ee
@@ -68206,6 +68212,7 @@ kalmuteenused.ee
 kalong.ee
 kalor.ee
 kalorid.ee
+kalorivabadus.ee
 kalorprojekt.ee
 kaloshin.ee
 kalprojekt.ee
@@ -75630,6 +75637,7 @@ kontakttv.ee
 kontamo.ee
 kontaveit.ee
 konteiner.ee
+konteiner24.ee
 konteineraku.ee
 konteinerid.ee
 konteinerid24.ee
@@ -88609,6 +88617,7 @@ maiadkutid.ee
 maiahouses.ee
 maiaproperty.ee
 maiapteek.ee
+maiasmari.ee
 maiasmokavarakamber.ee
 maiasmokk.ee
 maibara.ee
@@ -88757,6 +88766,7 @@ maison.ee
 maisonette.ee
 maisonfrancophone.ee
 maisonleopard.ee
+maisonrosalie.ee
 maisonsdumonde.ee
 maiste.ee
 mait.ee
@@ -89040,6 +89050,7 @@ maketid.ee
 maketistuudio.ee
 makett.ee
 makeup.ee
+makeup24.ee
 makeupatelier.ee
 makeupband.ee
 makeupbyel.ee
@@ -93674,6 +93685,7 @@ metallistuudio.ee
 metalliteenus.ee
 metallitookoda.ee
 metallitooriist.ee
+metallitooted.ee
 metallituba.ee
 metalliturg.ee
 metallivabrik.ee
@@ -112028,6 +112040,7 @@ phototallinn.ee
 phototaste.ee
 phototherapy.ee
 phototour.ee
+photovideo.ee
 photovoltaic.ee
 photoworld.ee
 php.ee
@@ -124619,6 +124632,7 @@ ristikukeskus.ee
 ristilipp.ee
 ristiloomemaja.ee
 ristimarja.ee
+ristimine.ee
 ristinurme.ee
 ristioja.ee
 ristipalo.ee
@@ -132247,6 +132261,7 @@ siloteenus.ee
 silport.ee
 silportvara.ee
 silpower.ee
+silro.ee
 silroc.ee
 sils.ee
 silsan.ee
@@ -140753,6 +140768,7 @@ taimar.pri.ee
 taimarteenused.ee
 taimaut.ee
 taime.ee
+taimeaed.ee
 taimeatlas.ee
 taimebeebid.ee
 taimebioloogia.ee
@@ -145247,6 +145263,7 @@ terasroos.ee
 terass.ee
 terassales.ee
 terassica.ee
+terassid.ee
 terassiehitus.ee
 terassiklaasid.ee
 terassimoobel.ee
@@ -151467,6 +151484,7 @@ turvadepoo.ee
 turvafirma.ee
 turvahooldus.ee
 turvaja.ee
+turvakaamera.ee
 turvakaamera24.ee
 turvakaamerad.ee
 turvakaart.ee
@@ -158258,6 +158276,7 @@ vile.ee
 vile.pri.ee
 vileda-professional.ee
 vileda.ee
+vilelli.ee
 vilenkunnapu.pri.ee
 vilep.ee
 vilepuhuja.ee
@@ -163845,6 +163864,7 @@ xn--bchler-bua.ee
 xn--bckmann-90a.ee
 xn--benderstnavakivid-xqb.ee
 xn--betoonimk-x9aa.ee
+xn--betoonitd-77aa.ee
 xn--biku-4qaa.ee
 xn--bikuorg-80aa.ee
 xn--bikusilm-m4aa.ee
@@ -165531,6 +165551,7 @@ xn--lvirent-10a.ee
 xn--lvisda-pxa3d.ee
 xn--m-0faa.ee
 xn--m-ehaa.ee
+xn--ma-xkaa.ee
 xn--maademk-s2aa.ee
 xn--maailmapev-x5a.ee
 xn--maakorraldustd-7pba.ee
@@ -166993,6 +167014,7 @@ xn--sidukid-10a.ee
 xn--sidukirent-2bb.ee
 xn--sidukitaustakontroll-i9b.ee
 xn--sidukiteost-ffb.ee
+xn--sidukool-e4a.ee
 xn--sidumeerik-2bb.ee
 xn--sidupe-pxad.ee
 xn--sidupetaja-2bbd.ee
